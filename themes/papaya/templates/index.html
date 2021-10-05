@@ -1,0 +1,39 @@
+{% import "macros/page.html" as page_macros %}
+{% extends "base.html" %}
+
+{% block content %}
+<main id="main" class="index" tabindex="-1">
+    <section>
+        {% set banner = resize_image(path="/static/banner.jpg", width=672, op="fit_width") %}
+        <img src="{{ banner.url }}" class="index-banner" alt="A misty forest."/>
+        <p>
+            We are the AES student section Erlangen-Nürnberg.
+            <br /><br />
+
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+        </p>
+    </section>
+    <section class="index-columns">
+        <section class="index-listing">
+            <h2>
+                Recent Events
+            </h2>
+            {% set section = get_section(path="projects/_index.md") %}
+            {% for page in section.pages | slice(end=2) %}
+            {{ page_macros::project_listing(page=page) }}
+            {% endfor %}
+            <p class="read-more"><a href="projects/">more events ≫</a></p>
+        </section>
+        <section class="index-listing">
+            <h2>
+                Recent news
+            </h2>
+            {% set section = get_section(path="blog/_index.md") %}
+            {% for page in section.pages | slice(end=2) %}
+            {{ page_macros::page_listing(page=page) }}
+            {% endfor %}
+            <p class="read-more"><a href="blog/">more news ≫</a></p>
+        </section>
+    </section>
+</main>
+{% endblock content %}

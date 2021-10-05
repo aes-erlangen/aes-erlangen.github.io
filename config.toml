@@ -7,10 +7,29 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+theme = "papaya"
+title = "AES Erlangen-Nürnberg"
+description = "Blub"
+
+taxonomies = [
+    { name = "categories" },
+    { name = "tags" },
+]
+
+generate_feed = true
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
 
 [extra]
-# Put all your custom variables here
+menu_links = [
+    { url = "$BASE_URL/news/", name = "Newsletter" },
+    { url = "$BASE_URL/about/", name = "About us" },
+    { url = "$BASE_URL/join/", name = "Join us" },
+]
+
+[extra.social]
+github = "aes-erlangen"
+email = "aes-erlangen@fau.de"
