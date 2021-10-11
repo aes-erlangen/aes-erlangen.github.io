@@ -25,8 +25,8 @@ highlight_code = false
 
 [extra]
 menu_links = [
+    { url = "$BASE_URL/about/", name = "About" },
     { url = "$BASE_URL/news/", name = "Newsletter" },
-    { url = "$BASE_URL/about/", name = "About us" },
     { url = "$BASE_URL/join/", name = "Join us" },
 ]
 
