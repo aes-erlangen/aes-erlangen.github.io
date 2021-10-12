@@ -1,0 +1,16 @@
+.member {
+    display: flex;
+    align-items: center;
+}
+
+.member .profile {
+    width: 800px;
+    text-align: center;
+}
+
+.member .profile img {
+    width: 200px;
+}
+
+.member span {
+}

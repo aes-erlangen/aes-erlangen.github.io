@@ -11,3 +11,15 @@ Inspiring students for audio is our mission. Therefore we organize events, invit
 
 > The Audio Engineering Society was formed with the purpose of uniting persons performing professional services in the audio engineering field and its allied arts, of collecting, collating and disseminating scientific knowledge in the field of audio engineering and its allied arts, of advancing such science in both theoretical and practical applications, of preparing, publishing and distributing literature and periodicals relative to the foregoing purposes and policies.
 
+## Our members
+
+<div class="member">
+    <div class="profile">
+        <img src="/dummy-head.png" />
+        <b>Head McDummy</b>
+        <a href="#">Website</a> | <a href="#">Head Inc.</a>
+    </div>
+    <span>
+        Donec non malesuada justo. In viverra ligula metus, eget pretium orci commodo sed. Aenean volutpat at ante ac pellentesque. Morbi a ligula lobortis, congue eros a, lobortis mauris. Fusce sem ante, ornare eget tincidunt nec, pellentesque in sem. Mauris in ultrices nibh. Fusce rhoncus non erat scelerisque placerat. 
+    </span>
+</div>
