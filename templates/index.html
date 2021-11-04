@@ -1,0 +1,45 @@
+{% import "macros/page.html" as page_macros %}
+{% extends "base.html" %}
+
+{% block content %}
+<main id="main" class="index" tabindex="-1">
+    <section>
+        {% set banner = resize_image(path="/static/banner.jpg", width=672, op="fit_width") %}
+        <img src="{{ banner.url }}" class="index-banner" alt="A misty forest."/>
+        <p>
+
+
+            We are the AES student section Erlangen-Nürnberg. We are people passionate about audio, not only student but anyone with an interest in audio, music and engineering. 
+            <br /><br />
+            
+            Inspiring students for audio is our mission. Therefore we organize events, invite experts from different fields and participate in competitions, though the most important part is sharing our interest with like-minded people.
+
+            <br /><br />
+            
+            If you are interested, you can subscribe our <a href="/news">newsletter</a>, join our <a href="https://join.slack.com/t/aes-erlangen/shared_invite/zt-wlragsa9-xmqOpcHHLHQMQ_4NFSJfSQ" target="_blank">Slack</a> or write us an <a href="mailto:hello@aes-erlangen.org">E-Mail</a>.
+        </p>
+    </section>
+    <section class="index-columns">
+        <section class="index-listing">
+            <h2>
+                Events
+            </h2>
+            {% set section = get_section(path="events/_index.md") %}
+            {% for page in section.pages | slice(end=2) %}
+            {{ page_macros::event_listing(page=page) }}
+            {% endfor %}
+            <p class="read-more"><a href="events/">more events ≫</a></p>
+        </section>
+        <section class="index-listing">
+            <h2>
+                Recent news
+            </h2>
+            {% set section = get_section(path="blog/_index.md") %}
+            {% for page in section.pages | slice(end=2) %}
+            {{ page_macros::page_listing(page=page) }}
+            {% endfor %}
+            <p class="read-more"><a href="blog/">more news ≫</a></p>
+        </section>
+    </section>
+</main>
+{% endblock content %}

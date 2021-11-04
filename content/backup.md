@@ -24,4 +24,3 @@ About us:
  - create short profile for each member
  - ask for pictures for members
 
-{{ img(path="/static/its-a-me.png", alt="Mario") }}
