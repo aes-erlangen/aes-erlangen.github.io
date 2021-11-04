@@ -2,6 +2,8 @@
 title = "About us"
 +++
 
+Hi there :wave:
+
 We are the AES student section Erlangen-Nürnberg. We are people passionate about audio, not only student but anyone with an interest audio, music and engineering. 
 
 Inspiring students for audio is our mission. Therefore we organize events, invite experts from different fields and participate in competitions, though the most important part is sharing our interest with like-minded people.

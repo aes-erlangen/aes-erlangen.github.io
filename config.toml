@@ -17,11 +17,11 @@ taxonomies = [
 ]
 
 generate_feed = true
+feed_filename = "rss.xml"
 
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
+render_emoji = true
 
 [extra]
 menu_links = [
@@ -32,4 +32,4 @@ menu_links = [
 
 [extra.social]
 github = "aes-erlangen"
-email = "aes-erlangen@fau.de"
+email = "hello@aes-erlangen.org"
