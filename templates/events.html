@@ -5,24 +5,22 @@
 
 {% block content %}
 <main id="main" tabindex="-1">
-    {% set section = get_section(path="projects/_index.md") %}
-    {% set project_categories = load_data(path="content/projects/categories.json") %}
-
-    {% for category, tag in project_categories %}
-        <h1>{{ category }}</h1>
-        {% for page in section.pages %}
-            {% if page.taxonomies.categories is containing(tag) %}
-                {{ page_macros::project_listing(page=page) }}
-            {% endif %}
-        {% endfor %}
+    <h1>Upcoming Events</h1>
+    {% for page in section.pages %}
+        {% set current_time = now() | date(format="%s") | int %}
+        {% set page_time = page.date | date(format="%s") | int %}
+        {% if current_time < page_time %}
+            {{ page_macros::event_listing(page=page) }}
+        {% endif %}
     {% endfor %}
 
-
-    <h1>Other</h1>
+    <h1>Past Event</h1>
     {% for page in section.pages %}
-    {% if page.taxonomies.categories | length == 0 %}
-    {{ page_macros::project_listing(page=page) }}
-    {% endif %}
+        {% set current_time = now() | date(format="%s") | int %}
+        {% set page_time = page.date | date(format="%s") | int %}
+        {% if current_time > page_time %}
+            {{ page_macros::event_listing(page=page) }}
+        {% endif %}
     {% endfor %}
 
 </main>

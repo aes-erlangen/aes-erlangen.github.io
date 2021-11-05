@@ -18,7 +18,7 @@ Inspiring students for audio is our mission. Therefore we organize events, invit
 <div class="member">
     <div class="profile">
         <img src="/dummy-head.png" />
-        <b>Head McDummy</b>
+        <b>Head McDummy</b><br />
         <a href="#">Website</a> | <a href="#">Head Inc.</a>
     </div>
     <span>

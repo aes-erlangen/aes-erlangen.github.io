@@ -14,6 +14,8 @@
     <link rel="stylesheet" href="{{ get_url(path="main.css", trailing_slash=false) }}">
     <link rel="stylesheet" href="{{ get_url(path="newsletter.css", trailing_slash=false) }}">
     <link rel="stylesheet" href="{{ get_url(path="members.css", trailing_slash=false) }}">
+    <link rel="stylesheet" href="{{ get_url(path="events.css", trailing_slash=false) }}">
+    <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"></noscript>
@@ -37,9 +39,9 @@
     {% block header %}
     <header>
         <img src="/aes-icon.png" style="height: 80px" />
-        <h1 class="site-header">
-            <a href="{{ config.base_url }}">{{ config.title }}</a>
-        </h1>
+        <div class="site-header">
+            <a href="{{ config.base_url }}">{{ config.title }}</a><div class="title-location">Erlangen - Nürnberg - Franken</div>
+        </div>
         <nav>
             <ul>
             {% block nav_bar %}

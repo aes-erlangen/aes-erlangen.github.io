@@ -7,8 +7,6 @@
         {% set banner = resize_image(path="/static/banner.jpg", width=672, op="fit_width") %}
         <img src="{{ banner.url }}" class="index-banner" alt="A misty forest."/>
         <p>
-
-
             We are the AES student section Erlangen-Nürnberg. We are people passionate about audio, not only student but anyone with an interest in audio, music and engineering. 
             <br /><br />
             
@@ -38,7 +36,7 @@
             {% for page in section.pages | slice(end=2) %}
             {{ page_macros::page_listing(page=page) }}
             {% endfor %}
-            <p class="read-more"><a href="blog/">more news ≫</a></p>
+            <p class="read-more"><a href="news/">more news ≫</a></p>
         </section>
     </section>
 </main>

@@ -79,6 +79,28 @@
             {{ page.content | safe }}
         </div>
     {% endif %}
+
+    {% if page.extra.start and page.extra.end and page.extra.location %}
+        <br />
+        <!-- Button code -->
+        <div title="Add to Calendar" class="addeventatc">
+            Add to Calendar
+            <span class="start">{{ page.date | date(format="%m/%d/%Y") }} {{ page.extra.start }}</span>
+            <span class="end">{{ page.date | date(format="%m/%d/%Y") }} {{ page.extra.end }}</span>
+            <span class="timezone">Europe/Berlin</span>
+            <span class="title">{{ page.title }}</span>
+            <span class="description">{{ page.content | safe }}</span>
+            <span class="location">{{ page.extra.location }}</span>
+        </div>
+        <a href="mailto:?subject=AES student section - {{ page.title }}&body={{ page.summary }}">
+            <div class="event_button">
+                <i class="far fa-envelope" style="font-size:20px"></i>
+                Forward via Email
+            </div>
+        </a>
+   {% endif %}
+
+
     
 </article>
 

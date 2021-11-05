@@ -1,9 +1,11 @@
 +++
 date = "2021-11-18"
-title = "Tonmeister Ulli presents"
+title = "The daily work of a Tonmeister at a research institute"
 
 [extra]
-duration = "17:00 - 18:30"
+start = "17:00"
+end = "18:30"
+location = "Fraunhofer IIS/Online"
 +++
 
 Working fields of a tonmeister outside the concert hall. Insights into daily work of a tonmeister at a research institute. And a few highlights.
