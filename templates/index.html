@@ -34,7 +34,7 @@
             <h2>
                 Recent news
             </h2>
-            {% set section = get_section(path="blog/_index.md") %}
+            {% set section = get_section(path="news/_index.md") %}
             {% for page in section.pages | slice(end=2) %}
             {{ page_macros::page_listing(page=page) }}
             {% endfor %}
