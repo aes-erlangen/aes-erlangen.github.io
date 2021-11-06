@@ -9,18 +9,16 @@
         <p>
             We are the AES student section Erlangen-Nürnberg. We are people passionate about audio, not only student but anyone with an interest in audio, music and engineering. 
             <br /><br />
-            
-            Inspiring students for audio is our mission. Therefore we organize events, invite experts from different fields and participate in competitions, though the most important part is sharing our interest with like-minded people.
 
-            <br /><br />
-            
-            If you are interested, you can subscribe our <a href="/newsletter">newsletter</a>, join our <a href="https://join.slack.com/t/aes-erlangen/shared_invite/zt-wlragsa9-xmqOpcHHLHQMQ_4NFSJfSQ" target="_blank">Slack</a> or write us an <a href="mailto:hello@aes-erlangen.org">E-Mail</a>.
+            Inspiring students for audio is our mission. Therefore we organize events, invite experts from different fields and participate in competitions, though the most important part is sharing our interest with like-minded people. If you want to engage in discussions all around audio, then take a look at <b>upcoming events</b> or read some of our <b>recent news</b>
+
+            <br />
         </p>
     </section>
     <section class="index-columns">
         <section class="index-listing">
             <h2>
-                Events
+                Upcoming Events
             </h2>
             {% set section = get_section(path="events/_index.md") %}
             {% for page in section.pages | slice(end=2) %}
@@ -39,5 +37,9 @@
             <p class="read-more"><a href="news/">more news ≫</a></p>
         </section>
     </section>
+    <p>
+        <br />
+        To stay connected you can subscribe our <a href="/newsletter">newsletter</a>, join our <a href="https://join.slack.com/t/aes-erlangen/shared_invite/zt-wlragsa9-xmqOpcHHLHQMQ_4NFSJfSQ" target="_blank">Slack</a> or write us an <a href="mailto:hello@aes-erlangen.org">E-Mail</a>.
+    </p>
 </main>
 {% endblock content %}
