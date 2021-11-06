@@ -1,7 +1,7 @@
 form {
   position: relative;
   margin: 50px auto 100px auto;
-  width: 550px;
+  max-width: 550px;
   height: 40px;
   display: flex;
 }
