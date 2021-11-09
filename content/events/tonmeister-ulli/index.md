@@ -5,7 +5,8 @@ title = "The daily work of a Tonmeister at a research institute"
 [extra]
 start = "17:00"
 end = "18:30"
-location = "Fraunhofer IIS/Online"
+joinaddr = "https://fau.zoom.us/j/67121349271?pwd=dCtCbVo5ckRqU1dWL3phTSt0cm9kQT09"
+location = "Zoom Meeting"
 +++
 
 Working fields of a tonmeister outside the concert hall. Insights into daily work of a tonmeister at a research institute. And a few highlights.

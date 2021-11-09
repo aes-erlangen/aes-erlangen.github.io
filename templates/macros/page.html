@@ -87,6 +87,10 @@
         {% set date = date ~ " ◦ " ~ page.extra.start ~ " - " ~ page.extra.end %}
     {% endif %}
 
+    {% if page.extra.location %}
+        {% set date = date ~ " ◦ " ~ page.extra.location %}
+    {% endif %}
+
     <div class="article-date">{{ date }}</div>
 </div>
 {% endmacro event_info %}

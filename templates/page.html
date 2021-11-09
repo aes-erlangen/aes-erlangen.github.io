@@ -62,8 +62,8 @@
             <h1>{{ page.title }}</h1>
             <h2 class="post-summary">{{ page.summary | striptags | safe }}</h2>
         </header>
-        {% if page.components is containing("projects") %}
-        {{ page_macros::project_info(page=page) }}
+        {% if page.extra.start and page.extra.end %}
+        {{ page_macros::event_info(page=page) }}
         {% else %}
         {{ page_macros::page_info(page=page) }}
         {% endif %}
@@ -74,7 +74,11 @@
         <header>
             <h1>{{ page.title }}</h1>
         </header>
+        {% if page.extra.start and page.extra.end %}
+        {{ page_macros::event_info(page=page) }}
+        {% else %}
         {{ page_macros::page_info(page=page) }}
+        {% endif %}
         <div class="content">
             {{ page.content | safe }}
         </div>
@@ -98,6 +102,14 @@
                 Forward via Email
             </div>
         </a>
+        {% if page.extra.joinaddr %}
+            <a href="{{ page.extra.joinaddr }}">
+                <div class="event_button">
+                    <i class="fa fa-video" style="font-size:20px"></i>
+                    Join Event
+                </div>
+            </a>
+        {% endif %}
    {% endif %}
 
 
