@@ -8,10 +8,11 @@ We are the AES Student Section Erlangen-Nürnberg. We are people passionate abou
 
 Inspiring students for audio is our mission. Therefore we organize events, invite experts from different fields and participate in competitions, though the most important part is sharing our interest with like-minded people.
 
-
 ## Mission statement of the AES:
 
 > The Audio Engineering Society was formed with the purpose of uniting persons performing professional services in the audio engineering field and its allied arts, of collecting, collating and disseminating scientific knowledge in the field of audio engineering and its allied arts, of advancing such science in both theoretical and practical applications, of preparing, publishing and distributing literature and periodicals relative to the foregoing purposes and policies.
+> 
+> Read more about the <a href="https://aes2.org/" target="_blank">AES here</a> 
 
 ## Our members
 
