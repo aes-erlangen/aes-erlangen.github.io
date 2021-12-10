@@ -9,7 +9,7 @@ build_search_index = false
 
 theme = "papaya"
 
-title = "AES student section"
+title = "AES Student Section"
 
 taxonomies = [
     { name = "categories" },

@@ -1,7 +1,7 @@
 +++
 title = "Newsletter"
 +++
-Stay up to date with events, learning resources and developments in the AES student section.
+Stay up to date with events, learning resources and developments in the AES Student Section.
 
 <form action="https://tinyletter.com/aes-erlangen" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/aes-erlangen', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
   <input type="email" id="email" name="email" placeholder="Enter your email" class="email-input" />
