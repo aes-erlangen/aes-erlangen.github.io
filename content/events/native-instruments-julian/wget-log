@@ -1,0 +1,6 @@
+--2021-12-10 10:30:22--  https://scholar.googleusercontent.com/citations?view_op=view_photo
+Resolving scholar.googleusercontent.com (scholar.googleusercontent.com)... 142.250.184.225, 2a00:1450:4001:831::2001
+Connecting to scholar.googleusercontent.com (scholar.googleusercontent.com)|142.250.184.225|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2021-12-10 10:30:23 ERROR 404: Not Found.
+

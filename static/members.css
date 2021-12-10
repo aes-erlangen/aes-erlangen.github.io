@@ -4,13 +4,13 @@
 }
 
 .member .profile {
-    width: 1100px;
     text-align: center;
     margin-right: 20px;
+    flex-shrink: 0;
+    max-width: 200px;
 }
 
 .member .profile img {
-    width: 200px;
 }
 
 .member span {

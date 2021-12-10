@@ -21,8 +21,12 @@
                 Upcoming Events
             </h2>
             {% set section = get_section(path="events/_index.md") %}
-            {% for page in section.pages | slice(end=2) %}
-            {{ page_macros::event_listing(page=page) }}
+            {% for page in section.pages %}
+                {% set current_time = now() | date(format="%s") | int %}
+                {% set page_time = page.date | date(format="%s") | int %}
+                {% if current_time < page_time %}
+                    {{ page_macros::event_listing(page=page) }}
+                {% endif %}
             {% endfor %}
             <p class="read-more"><a href="events/">more events ≫</a></p>
         </section>
