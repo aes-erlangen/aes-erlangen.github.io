@@ -3,10 +3,10 @@ date = "2022-01-20"
 title = "Automotive Audio – How to take an idea from concept to market"
 
 [extra]
-start = "8:15"
-end = "9:45"
-joinaddr = "https://fau.zoom.us/j/91250584336?pwd=Mkh2b1VHUlFMYkVkUWtuZ2YxSGprZz09"
-location = "Zoom Meeting"
+start = "17:00"
+end = "18:00"
+joinaddr = "https://gather.town/app/vHpmPqQGm5HeDbBG/AES%20Student%20House"
+location = "Gather Town"
 +++
 
 <!-- show more -->
