@@ -34,6 +34,7 @@ In my presentation I will focus on three aspects:
         <b>Birgit Bartel-Kurz</b><br />
         <a href="https://de.linkedin.com/in/birgit-bartel-kurz-11122965" target="_blank">LinkedIn</a>
     </div>
-         Birgit Bartel-Kurz, Erlangen, studied Mathematics at Darmstadt University of Applied Science and at University of Namur, Belgium. Prior to joining Fraunhofer IIS in 1998, she held positions at Bosch Telecom as a software engineer and Mannheim University of Cooperative Education as lecturer. After initially working in the fields of digital broadcast applications, multimedia security technologies and traffic information systems at Fraunhofer IIS, Birgit has dedicated her expertise to the institute’s automotive audio solutions range as a project manager since 2012.   <span>
+    <span>
+         Birgit Bartel-Kurz, Erlangen, studied Mathematics at Darmstadt University of Applied Science and at University of Namur, Belgium. Prior to joining Fraunhofer IIS in 1998, she held positions at Bosch Telecom as a software engineer and Mannheim University of Cooperative Education as lecturer. After initially working in the fields of digital broadcast applications, multimedia security technologies and traffic information systems at Fraunhofer IIS, Birgit has dedicated her expertise to the institute’s automotive audio solutions range as a project manager since 2012.
     </span>
 </div>
