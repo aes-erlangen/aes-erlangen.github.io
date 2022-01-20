@@ -7,7 +7,7 @@ date = "2022-01-20"
 
 Hi everybody,
 
-Slack has served us up until now as our chat, but we decided phase out of Slack and move to [Zulip](https://zulip.com/). You can find us now at [aes-erlangen.zulipchat.com](https://aes-erlangen.zulipchat.com), the links on the website are already updated. This decision was made in the last Orga meeting, because:
+Slack has served us up until now as our chat, but we decided phasing out of Slack and moving to [Zulip](https://zulip.com/). You can find us now at [aes-erlangen.zulipchat.com](https://aes-erlangen.zulipchat.com), the links on the website are already updated. This decision was made in the last Orga meeting, because:
 
  - Zulip gives open access to the data and allows self-hosting
  - easy integration of mailing lists
