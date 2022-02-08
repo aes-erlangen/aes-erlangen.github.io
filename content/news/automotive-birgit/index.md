@@ -1,9 +1,11 @@
 +++
-title = "Second event hosted by Automotive"
+title = "Recap on Automotive Audio"
 date = "2022-02-07"
 +++
 
-We hosted our second event on January 20th where we enjoyed a talk by Birgit Bartel-Kurz from the `Automotive Team` at Fraunhofer IIS. Birgit highlighted the development and growth of the `Automotive Team` over the last decade and introduced three successfully implemented products e.g. Fraunhofer Symphoria, Fraunhofer Sonamic Panorama and [Sonamic TimeScaling](https://www.iis.fraunhofer.de/en/ff/amm/automotive.html).
+![automotive-slide-sample](sample.png)
+
+We hosted our second event on January 20th where we enjoyed a talk by Birgit Bartel-Kurz from the [Automotive](https://www.iis.fraunhofer.de/en/ff/amm/automotive.html) Team at Fraunhofer IIS. Birgit highlighted the development and growth of the [Automotive](https://www.iis.fraunhofer.de/en/ff/amm/automotive.html) Team over the last decade and introduced three successfully implemented products e.g. Fraunhofer Symphoria, Fraunhofer Sonamic Panorama and Sonamic TimeScaling.
 
 Later she gave insights into working in a diverse team, consisting of Tonmeister, researchers, software engineers and business experts. We learned about the team's development cycle and how first ideas turn into products over the years. At the end of the talk, Birgit pointed out job opportunities for student workers and graduates. You can check them out here:
 
