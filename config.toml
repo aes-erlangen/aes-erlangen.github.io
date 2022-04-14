@@ -26,6 +26,7 @@ render_emoji = true
 [extra]
 menu_links = [
     { url = "$BASE_URL/about/", name = "About" },
+    { url = "$BASE_URL/events/", name = "Events" },
     { url = "$BASE_URL/newsletter/", name = "Newsletter" },
     { url = "$BASE_URL/join/", name = "Join us" },
 ]
