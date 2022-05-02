@@ -1,4 +1,4 @@
-# Website Repository of the AES Student Section Erlangen-Nürnberg-Franken
+# Website Repository of the AES Student Section Erlangen-Nürnberg
 
 The website is hosted under: https://aes-erlangen.github.io/
 
