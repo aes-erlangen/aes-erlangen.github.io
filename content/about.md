@@ -17,7 +17,7 @@ If you are interested in mixing, recording, audio technology, or audio research,
 ## Our members
 <div class="member">
     <div class="profile">
-        <img src="#" />
+        <img src="/unknown.png" />
         <b>Komal Hirurkar</b><br />
         <a href="#"></a>
     </div>
@@ -31,7 +31,7 @@ I am always excited to meet and connect to people and learning from their experi
 <br>
 <div class="member">
     <div class="profile">
-        <img src="#" />
+        <img src="/annaleschanowsky.jpg" />
         <b>Anna Leschanowsky</b><br />
         <a href="#"></a>
     </div>
@@ -43,17 +43,7 @@ If anyone likes to share tips or traveller stories, I am always up for a talk!
 <br>
 <div class="member">
     <div class="profile">
-        <img src="#" />
-        <b>Nils Peters</b><br />
-        <a href="https://www.audiolabs-erlangen.de/fau/professor/peters">Website</a>
-    </div>
-    <span>
-    </span>
-</div>
-<br>
-<div class="member">
-    <div class="profile">
-        <img src="#" />
+        <img src="/unknown.png" />
         <b>Maryam Pirmoradi</b><br />
         <a href="#"></a>
     </div>
@@ -77,7 +67,7 @@ If anyone likes to share tips or traveller stories, I am always up for a talk!
 <br>
 <div class="member">
     <div class="profile">
-        <img src="#" />
+        <img src="/unknown.png" />
         <b>Lorenz Schmidt</b><br />
         <a href="https://www.audiolabs-erlangen.de/fau/assistant/lschmidt">Website</a>
     </div>
