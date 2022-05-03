@@ -5,9 +5,9 @@
 
 .member .profile {
     text-align: center;
-    margin-right: 20px;
+    margin-right: 100px;
     flex-shrink: 0;
-    max-width: 200px;
+    max-width: 100px;
 }
 
 .member .profile img {
