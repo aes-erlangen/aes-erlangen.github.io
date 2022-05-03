@@ -17,20 +17,6 @@ If you are interested in mixing, recording, audio technology, or audio research,
 ## Our members
 <div class="member">
     <div class="profile">
-        <img src="/unknown.png" />
-        <b>Komal Hirurkar</b><br />
-        <a href="#"></a>
-    </div>
-    <span>
-    Hello everyone, this is Komal and I am from India. I have done my Bachelor's in Electronics Engineering and am currently pursuing Masters in Communication and Multimedia Engineering. I joined FAU this winter semester and am still exploring various fields, but :headphones: Audio is the one that has definitely caught my attention and interest.
-During my school days, I pursued Indian classical music for two years. I started learning to play the guitar at the beginning of the pandemic but couldn't bring it to Germany due to the luggage constraints :sweat_smile:. I would definitely like to start again:grinning_face_with_smiling_eyes:. I love reading, traveling and learning new languages. I speak English, Hindi, Marathi, Korean and am learning German. I run a motivational website called charmingchallenges.com, although I haven't been very active on it on the past year, I intend to start working on it soon again.
-
-I am always excited to meet and connect to people and learning from their experiences!
-    </span>
-</div>
-<br>
-<div class="member">
-    <div class="profile">
         <img src="/annaleschanowsky.jpg" />
         <b>Anna Leschanowsky</b><br />
         <a href="#"></a>
@@ -43,7 +29,7 @@ If anyone likes to share tips or traveller stories, I am always up for a talk!
 <br>
 <div class="member">
     <div class="profile">
-        <img src="/unknown.png" />
+        <img src="/maryampirmoradi.jpg" />
         <b>Maryam Pirmoradi</b><br />
         <a href="#"></a>
     </div>
@@ -62,6 +48,20 @@ If anyone likes to share tips or traveller stories, I am always up for a talk!
     </div>
     <span>
         My enthusiasm for audio and passion for music brought me to pursue a Ph.D. in the field of music information retrieval at the International Audio Laboratories Erlangen. In my daily work, I conduct research on signal processing tools for analyzing multitrack recordings of polyphonic singing. In my free time, I play guitar and piano. Also, I like to play around with audio equipment and record my own songs. I am always happy to connect and meet new people.
+    </span>
+</div>
+<br>
+<div class="member">
+    <div class="profile">
+        <img src="/unknown.png" />
+        <b>Komal Hirurkar</b><br />
+        <a href="#"></a>
+    </div>
+    <span>
+    Hello everyone, this is Komal and I am from India. I have done my Bachelor's in Electronics Engineering and am currently pursuing Masters in Communication and Multimedia Engineering. I joined FAU this winter semester and am still exploring various fields, but :headphones: Audio is the one that has definitely caught my attention and interest.
+During my school days, I pursued Indian classical music for two years. I started learning to play the guitar at the beginning of the pandemic but couldn't bring it to Germany due to the luggage constraints :sweat_smile:. I would definitely like to start again:grinning_face_with_smiling_eyes:. I love reading, traveling and learning new languages. I speak English, Hindi, Marathi, Korean and am learning German. I run a motivational website called charmingchallenges.com, although I haven't been very active on it on the past year, I intend to start working on it soon again.
+
+I am always excited to meet and connect to people and learning from their experiences!
     </span>
 </div>
 <br>
