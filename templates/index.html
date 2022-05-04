@@ -7,12 +7,16 @@
         {% set banner = resize_image(path="/static/banner.jpg", width=672, op="fit_width") %}
         <img src="{{ banner.url }}" class="index-banner" alt="A misty forest."/>
         <p>
-            We are the AES Student Section Erlangen-Nürnberg. We are passionate about audio, not only student but anyone with an interest in audio, music and engineering. 
+            Welcome, we are the AES Student Section Erlangen-Nürnberg. We love audio technology.
             <br /><br />
 
-            Inspiring students for audio is our mission. Therefore we organize events, invite experts from different fields and participate in competitions, though the most important part is sharing our interest with like-minded people. If you want to engage in discussions all around audio, then take a look at <b>upcoming events</b> or read some of our <b>recent news</b>
+            Sharing our passion for audio is our mission. Therefore, we organize events, invite experts from different fields, and participate in conferences. On this website, you can find more <b>about</b> us, read our <b>recent news</b>, or find information on <b>upcoming events</b>. If you are an audio enthusiast as well, come an join us!
 
             <br />
+        </p>
+        <p>
+            <br />
+            To stay connected you can subscribe our <b><a href="/newsletter">newsletter</a></b>, join our <b><a href="http://aes-erlangen.zulipchat.com" target="_blank">Zulip</a></b> or write us an <b><a href="mailto:hello@aes-erlangen.org">E-Mail</a></b>.
         </p>
     </section>
     <section class="index-columns">
@@ -41,9 +45,5 @@
             <p class="read-more"><a href="news/">more news ≫</a></p>
         </section>
     </section>
-    <p>
-        <br />
-        To stay connected you can subscribe our <a href="/newsletter">newsletter</a>, join our <a href="http://aes-erlangen.zulipchat.com" target="_blank">Zulip</a> or write us an <a href="mailto:hello@aes-erlangen.org">E-Mail</a>.
-    </p>
 </main>
 {% endblock content %}
