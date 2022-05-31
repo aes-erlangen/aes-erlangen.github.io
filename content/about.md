@@ -29,6 +29,18 @@ If anyone likes to share tips or traveller stories, I am always up for a talk!
 <br>
 <div class="member">
     <div class="profile">
+        <img src="/carlotta.jpg" width=100/>
+        <b>Carlotta Anemüller</b><br />
+        <a href="#"></a>
+    </div>
+    <span>
+    Hi, I am Carlotta! I am a PhD student at the International Audio Laboratories Erlangen, where I am working in the field of spatial audio. My research is all about how to recreate the perception of a spatial sound field most convincingly, either over loudspeakers or over headphones. 
+As for audio-related hobbies, I used to play the trumpet, something that I should start again one day. Other than that, I love to travel, do all different kinds of sport and meet friends in my spare time.
+    </span>
+</div>
+<br>
+<div class="member">
+    <div class="profile">
         <img src="/maryampirmoradi.jpg" width=100/>
         <b>Maryam Pirmoradi</b><br />
         <a href="#"></a>
