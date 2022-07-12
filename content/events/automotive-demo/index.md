@@ -24,6 +24,8 @@ We invite the students of the AES Student Section Erlangen-Nürnberg to listen t
 In addition, we explain the HW and SW landscape used for our in-car technology demos.
 We are happy to answer questions about our team, how we work and what vacancies we can offer.
 
+If you would like to participate in this event, please register [here](https://docs.google.com/forms/d/e/1FAIpQLSea-S6Jpt0Zi2McmcwSHEftNODqE8zFTCuu4p_XZLpJ04yjeg/viewform?usp=pp_url)!
+
 <!-- show more -->
 
 <img src="automotive-demo.png" width=500/>
