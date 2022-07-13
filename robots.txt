@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aes-erlangen.github.io/sitemap.xml
