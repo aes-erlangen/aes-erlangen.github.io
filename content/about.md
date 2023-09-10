@@ -54,17 +54,6 @@ As for audio-related hobbies, I used to play the trumpet, something that I shoul
 <br>
 <div class="member">
     <div class="profile">
-        <img src="/sebastianrosenzweig.jpg" width=100/>
-        <b>Sebastian Rosenzweig</b><br />
-        <a href="https://www.audiolabs-erlangen.de/fau/assistant/rosenzweig" target="_blank">Website</a>
-    </div>
-    <span>
-        My enthusiasm for audio and passion for music brought me to pursue a Ph.D. in the field of music information retrieval at the International Audio Laboratories Erlangen. In my daily work, I conduct research on signal processing tools for analyzing multitrack recordings of polyphonic singing. In my free time, I play guitar and piano. Also, I like to play around with audio equipment and record my own songs. I am always happy to connect and meet new people.
-    </span>
-</div>
-<br>
-<div class="member">
-    <div class="profile">
         <img src="/unknown.png" width=100/>
         <b>Komal Hirurkar</b><br />
 	<a href="http://charmingchallenges.com" target="_blank">Website</a>
