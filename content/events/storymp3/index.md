@@ -1,11 +1,11 @@
 +++
-date = "2024-10-17"
-title = "Dolby Germany - Company Visit"
+date = "2024-11-29"
+title = "Story of MP3"
 
 [extra]
 start = ""
 end = ""
-location = "Marienbergstraße 98, Nürnberg"
+location = "Am Wolfsmantel 33, Erlangen"
 +++
 
 Another fantastic AES event is waiting for you! 
