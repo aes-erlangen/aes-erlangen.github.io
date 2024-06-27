@@ -39,15 +39,11 @@ As for audio-related hobbies, I used to play the trumpet, something that I shoul
 <br>
 <div class="member">
     <div class="profile">
-        <img src="/unknown.png" width=100/>
+        <img src="/komal.jpg" width=100/>
         <b>Komal Hirurkar</b><br />
-	<a href="http://charmingchallenges.com" target="_blank">Website</a>
     </div>
     <span>
-    Hello everyone, this is Komal and I am from India. I have done my Bachelor's in Electronics Engineering and am currently pursuing Masters in Communication and Multimedia Engineering. I joined FAU this winter semester and am still exploring various fields, but 🎧 Audio is the one that has definitely caught my attention and interest.
-During my school days, I pursued Indian classical music for two years. I started learning to play the guitar at the beginning of the pandemic but couldn't bring it to Germany due to the luggage constraints 😅 I would definitely like to start again 😁. I love reading, traveling and learning new languages. I speak English, Hindi, Marathi, Korean and am learning German. I run a motivational website called <a href="http://charmingchallenges.com" target="_blank">charmingchallenges.com</a>, although I haven't been very active on it on the past year, I intend to start working on it soon again.
-
-I am always excited to meet and connect to people and learning from their experiences!
+        My name is Komal, and I am pursuing a master's degree in Communication and Multimedia Engineering. As an audio enthusiast, I have a deep appreciation for sound, stemming from my school days learning Indian classical music. Currently, I am learning to play the ukulele and enjoy picking up new languages in my spare time. I am passionate about connecting with fellow audio engineering and music enthusiasts, always eager to exchange ideas and experiences.
     </span>
 </div>
 <br>
