@@ -21,6 +21,10 @@ The official program will run from 17:00 to 19:00, followed by a
 networking session with food and drinks, where you can connect with 
 other audio enthusiasts and share insights.
 
+<b>Registration link:</b> [https://forms.gle/ue4ci2RKZUn3Rreq6](https://forms.gle/ue4ci2RKZUn3Rreq6)
+
+<br /><hr />
+
 ![Story of MP3](./poster.png)
 
 
