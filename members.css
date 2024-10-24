@@ -1,0 +1,17 @@
+.member {
+    display: flex;
+    align-items: center;
+}
+
+.member .profile {
+    text-align: center;
+    margin-right: 50px;
+    flex-shrink: 0;
+    width: 150px;
+}
+
+.member .profile img {
+}
+
+.member span {
+}
