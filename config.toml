@@ -16,8 +16,8 @@ taxonomies = [
     { name = "tags" },
 ]
 
-generate_feed = true
-feed_filename = "rss.xml"
+generate_feeds = true
+feed_filenames = ["rss.xml", "atom.xml"]
 
 [markdown]
 highlight_code = false

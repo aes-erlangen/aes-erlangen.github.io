@@ -32,12 +32,14 @@
   </a>
   {% endif %}
 
-  {% if config.generate_feed %}
-  <a href="{{ config.base_url }}/{{ config.feed_filename }}" aria-label="Open atom xml feed" target="_blank">
+  {% if config.generate_feeds %}
+  {% for feed in config.feed_filenames %}
+  <a href="{{ config.base_url }}/{{ feed }}" aria-label="Open atom xml feed" target="_blank">
     <span class="icon is-large">
       <i class="fas fa-rss fa-lg" aria-hidden="true" title="atom xml feed"></i>
     </span>
   </a>
+  {% endfor %}
   {% endif %}
 </span>
 {% endmacro %}
