@@ -17,7 +17,7 @@ taxonomies = [
 ]
 
 generate_feeds = true
-feed_filenames = ["rss.xml", "atom.xml"]
+feed_filenames = ["rss.xml"]
 
 [markdown]
 highlight_code = false

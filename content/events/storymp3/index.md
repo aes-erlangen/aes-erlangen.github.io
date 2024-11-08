@@ -3,8 +3,8 @@ date = "2024-11-29"
 title = "Story of MP3"
 
 [extra]
-start = ""
-end = ""
+start = "17:00"
+end = "19:00"
 location = "Am Wolfsmantel 33, Erlangen"
 +++
 
