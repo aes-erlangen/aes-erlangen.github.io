@@ -17,13 +17,33 @@ If you are interested in mixing, recording, audio technology, or audio research,
 ## Our members
 <div class="member">
     <div class="profile">
-        <img src="/carlotta.jpg" width=100/>
-        <b>Carlotta Anemüller</b><br />
+        <img src="/komal.jpg" width=100/>
+        <b>Komal Hirurkar</b><br />
+    </div>
+    <span>
+        My name is Komal, and I am pursuing a master's degree in Communication and Multimedia Engineering. As an audio enthusiast, I have a deep appreciation for sound, stemming from my school days learning Indian classical music. Currently, I am learning to play the ukulele and enjoy picking up new languages in my spare time. I am passionate about connecting with fellow audio engineering and music enthusiasts, always eager to exchange ideas and experiences.
+    </span>
+</div>
+<br>
+<div class="member">
+    <div class="profile">
+        <img src="/mohammad.jpg" width=100/>
+        <b>Mohammad Murtaza</b><br />
         <a href="#"></a>
     </div>
     <span>
-    Hi, I am Carlotta! I am a PhD student at the International Audio Laboratories Erlangen, where I am working in the field of spatial audio. My research is all about how to recreate the perception of a spatial sound field most convincingly, either over loudspeakers or over headphones. 
-As for audio-related hobbies, I used to play the trumpet, something that I should start again one day. Other than that, I love to travel, do all different kinds of sport and meet friends in my spare time.
+    I am Mohammad, the Vice Chair (VC) of the AES Student Section Erlangen-Nuremberg. I am currently doing my Masters in Communication and Multimedia Engineering (CME). I am a very outgoing person eager to learn and try something new everyday. This eagerness combined with my interest in audio led me to join AES. I got more interested in audio during my studies as I took different audio related courses. What piqued my interest was how the human hearing works in general (when it comes to how we perceive sound and perform sound localization, for example). In my free time, I try to do a lot of sports like play badminton, table tennis and go for bouldering. 
+    </span>
+</div>
+<br>
+<div class="member">
+    <div class="profile">
+        <img src="/ivana.png" width=100/>
+        <b>Ivana Burmazović</b><br />
+        <a href="#"></a>
+    </div>
+    <span>
+    Hi, my name is Ivana! As the secretary of the AES Student Section Erlangen, I support the organization of our activities and help to keep our members informed so that everything runs smoothly. My academic interests are centered around advancing speech processing technologies. Therefore, I am currently working on my master’s thesis at the AudioLabs, where I focus on employing deep learning models for sound event detection and speech extraction.
     </span>
 </div>
 <br>
@@ -39,11 +59,43 @@ As for audio-related hobbies, I used to play the trumpet, something that I shoul
 <br>
 <div class="member">
     <div class="profile">
-        <img src="/komal.jpg" width=100/>
-        <b>Komal Hirurkar</b><br />
+        <img src="/aru.jpg" width=100/>
+        <b>Arunothpol Debnath</b><br />
+        <a href="#"></a>
     </div>
     <span>
-        My name is Komal, and I am pursuing a master's degree in Communication and Multimedia Engineering. As an audio enthusiast, I have a deep appreciation for sound, stemming from my school days learning Indian classical music. Currently, I am learning to play the ukulele and enjoy picking up new languages in my spare time. I am passionate about connecting with fellow audio engineering and music enthusiasts, always eager to exchange ideas and experiences.
+    Hi, I am Aru. I am studying Information & Communication Technology Masters with Media Processing specialisation at FAU. I'm here because I love Signal Processing!!  I am fascinated with looking at problems from a multidimensional signals & systems perspective. I got interested in audio as a lot of DSP-related concepts are deeply linked to the audio signal processing. I have almost zero idea of music, but I am taking some courses related to music signal processing and trying to understand the math behind music signals. Apart from audio, I am interested in any kind of signal processing, e.g., image processing, computational neuroscience, etc. Especially, I am always up for discussions and listening to others experiences about wavelets, filterbanks, and possible collaboration between signal processing and physics.
+
+Hoping to meet more people enthusiastic about music, audio/signal processing, and get to know about their hobbies and interests (see, signal processing can be a door to meeting new friends!). Always happy to discuss about books (technical and story), movies, funny musical instruments, comics (super hero and non-super hero), sci-fi stuff (ok, I can't resist mentioning Doctor Who anymore), etc. 
+
+Currently reading: Sync by Stephen Strogatz. 
+
+My book suggestion to anyone any time: Totto Chan- The Little Girl at the Window by Tetsuko Kuroyanagi
+
+See you at AES events!
+    </span>
+</div>
+<br>
+<div class="member">
+    <div class="profile">
+        <img src="/unknown.png" width=100/>
+        <b>Marc Kolb</b><br />
+        <a href="#"></a>
+    </div>
+    <span>
+    Hi, I’m Marc! I’ve been playing piano since I was 7, which sparked my lifelong passion for music. I completed my Bachelor’s in Electrical Audio Engineering and am currently pursuing a Master’s in Electrical Engineering and Information Technology (EEI). I’m fascinated by everything related to music, audio, and signal processing, and I’m excited to connect with others who share these interests!
+    </span>
+</div>
+<br>
+<div class="member">
+    <div class="profile">
+        <img src="/carlotta.jpg" width=100/>
+        <b>Carlotta Anemüller</b><br />
+        <a href="#"></a>
+    </div>
+    <span>
+    Hi, I am Carlotta! I am a PhD student at the International Audio Laboratories Erlangen, where I am working in the field of spatial audio. My research is all about how to recreate the perception of a spatial sound field most convincingly, either over loudspeakers or over headphones. 
+As for audio-related hobbies, I used to play the trumpet, something that I should start again one day. Other than that, I love to travel, do all different kinds of sport and meet friends in my spare time.
     </span>
 </div>
 <br>
