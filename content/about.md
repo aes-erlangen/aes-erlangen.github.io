@@ -49,7 +49,7 @@ If you are interested in mixing, recording, audio technology, or audio research,
 <br>
 <div class="member">
     <div class="profile">
-        <img src="/unknown.png" width=100/>
+        <img src="/alex.jpg" width=100/>
         <b>Alex Heinmüller</b><br />
         <a href="#"></a>
     </div>
@@ -64,15 +64,7 @@ If you are interested in mixing, recording, audio technology, or audio research,
         <a href="#"></a>
     </div>
     <span>
-    Hi, I am Aru. I am studying Information & Communication Technology Masters with Media Processing specialisation at FAU. I'm here because I love Signal Processing!!  I am fascinated with looking at problems from a multidimensional signals & systems perspective. I got interested in audio as a lot of DSP-related concepts are deeply linked to the audio signal processing. I have almost zero idea of music, but I am taking some courses related to music signal processing and trying to understand the math behind music signals. Apart from audio, I am interested in any kind of signal processing, e.g., image processing, computational neuroscience, etc. Especially, I am always up for discussions and listening to others experiences about wavelets, filterbanks, and possible collaboration between signal processing and physics.
-
-Hoping to meet more people enthusiastic about music, audio/signal processing, and get to know about their hobbies and interests (see, signal processing can be a door to meeting new friends!). Always happy to discuss about books (technical and story), movies, funny musical instruments, comics (super hero and non-super hero), sci-fi stuff (ok, I can't resist mentioning Doctor Who anymore), etc. 
-
-Currently reading: Sync by Stephen Strogatz. 
-
-My book suggestion to anyone any time: Totto Chan- The Little Girl at the Window by Tetsuko Kuroyanagi
-
-See you at AES events!
+    Hi, I am Aru. I am studying Information & Communication Technology Masters with Media Processing specialisation at FAU. I'm here because I love Signal Processing!!  I am fascinated with looking at problems from a multidimensional signals & systems perspective. I got interested in audio as a lot of DSP-related concepts are deeply linked to the audio signal processing. I have almost zero idea of music, but I am taking some courses related to music signal processing and trying to understand the math behind music signals. Apart from audio, I am interested in any kind of signal processing, e.g., image processing, computational neuroscience, etc. Especially, I am always up for discussions and listening to others experiences about wavelets, filterbanks, and possible collaboration between signal processing and physics. Hoping to meet more people enthusiastic about music, audio/signal processing, and get to know about their hobbies and interests (see, signal processing can be a door to meeting new friends!). Always happy to discuss about books (technical and story), movies, funny musical instruments, comics (super hero and non-super hero), sci-fi stuff (ok, I can't resist mentioning Doctor Who anymore), etc. Currently reading: Sync by Stephen Strogatz. My book suggestion to anyone any time: Totto Chan- The Little Girl at the Window by Tetsuko Kuroyanagi. See you at AES events!
     </span>
 </div>
 <br>
